@@ -30,7 +30,7 @@ The final model is built using **XGBoost** and also provides a **placement proba
 
 ---
 
-## 🚀 Workflow
+## Workflow
 
 1. Load and clean dataset  
 2. Encode categorical columns  
@@ -47,7 +47,7 @@ The final model is built using **XGBoost** and also provides a **placement proba
 
 ---
 
-## 🔧 Installation & Usage
+## Installation & Usage
 
 Clone the repository:
 
